@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.9"
+        android:text="@string/zero"
+        android:gravity="center"
+        android:background="#D1E604"
+        android:textSize="70sp"
+        android:textColor="#03188E"
+        android:id="@+id/center"
+        />
+    <TableRow
+        android:id="@+id/r1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/plus"
+            android:layout_weight="0.1"
+            android:textSize="15pt"
+            android:background="#ff3385"
+            android:id="@+id/first"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/minus"
+            android:layout_weight="0.1"
+            android:textSize="15pt"
+            android:background="#6E80E6"
+            android:id="@+id/second"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="@string/zeroes"
+            android:textSize="15pt"
+            android:background="#8BC34A"
+            android:id="@+id/third"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/toast"
+            android:layout_weight="0.1"
+            android:textSize="15pt"
+            android:background="#F44336"
+            android:id="@+id/fourth"/>
+
+    </TableRow>
+
+
+
+</LinearLayout>

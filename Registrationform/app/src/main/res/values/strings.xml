@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Registration form</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="choose">Gender</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string name="chose_branch">Branch</string>
+    <string-array name="Branch">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>Mechanical</item>
+        <item>Others</item>
+    </string-array>
+    <string name="submit">Submit</string>
+    <string name="user_details">USER DETAILS</string>
+</resources>

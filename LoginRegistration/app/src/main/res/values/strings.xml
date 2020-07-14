@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginRegistration</string>
+    <string name="welcome">Welcome to Home</string>
+    <string name="username">Username</string>
+    <string name="login">Login Page</string>
+    <string name="register">Register</string>
+    <string name="login_p">Login</string>
+    <string name="password">Password</string>
+    <string name="users">Username</string>
+    <string name="user">Username</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="passwords">Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="registers">Register</string>
+    <string name="home">Login</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="email_id">Email Id</string>
+</resources>

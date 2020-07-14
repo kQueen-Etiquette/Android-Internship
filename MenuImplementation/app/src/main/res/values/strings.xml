@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu Implementation</string>
+    <string name="settings">Go to settings and select</string>
+    <string name="share">Share</string>
+    <string name="dial">Dial</string>
+    <string name="gallery">Gallery</string>
+</resources>

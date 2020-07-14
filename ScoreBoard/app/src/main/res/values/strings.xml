@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Board</string>
+    <string name="team_a">Team A</string>
+    <string name="zero">0</string>
+    <string name="str1">+1 Point</string>
+    <string name="str2">+2 Point</string>
+    <string name="str3">+3 Point</string>
+    <string name="team_b">Team B</string>
+    <string name="zero1">0</string>
+    <string name="str4">+1 Point</string>
+    <string name="str5">+2 Point</string>
+    <string name="str6">+3 Point</string>
+    <string name="reset">Reset</string>
+    <string name="str1a">+1 Point</string>
+    <string name="str2a">+2 point</string>
+    <string name="str3a">+3 point</string>
+    <string name="str1b">+1 point</string>
+    <string name="str2b">+2 point</string>
+    <string name="str3b">+3 point</string>
+</resources>
